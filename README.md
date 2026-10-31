@@ -4,9 +4,11 @@ A desktop app for managing a car rental business: the car inventory, customer re
 
 Built for the Software Construction course, 2023–2024.
 
-## Project Background
+### Project Background
 
-This was a collaborative university project that a team of students built in 2024 for the Software Construction course. The team kept the original Git repository. This repository is my personal copy, published with a fresh history. The sample database holds fictional demo data only.
+This project was developed in 2024 as part of a university Software Construction course. It was a collaborative student project, and the original code was maintained in a teammate's GitHub repository.
+
+This repository is my personal copy of the project, published to document my university work and early experience with Java desktop development.
 
 ## Features
 
